@@ -1,6 +1,8 @@
 # Freenove_Breakout_Board
 > Apply to FNK0101.
 
+<img src='FNK0101.png' width='40%' align = left/>
+
 ### Download
 
 Click the green "Code" button, then click "Download ZIP" button in the pop-up window.  
