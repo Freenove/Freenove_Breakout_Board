@@ -13,7 +13,7 @@ Usage Notes:
 
 1. The Freenove Breakout Board is compatible with various development boards, but the width of the development board should be between 600mil and 1000mil. If the development board does not meet the installation requirements, do not force it into place to avoid damaging the Freenove Breakout Board.
 
-2. The Freenove Breakout Board includes two voltage regulator circuits. One circuit steps down the external input power to 5V at 3A, while the other steps it down to 3.3V at 3A. The external power input voltage range is 4-24V. We recommend using a power supply device with at least 12V at 3A to power the Freenove Breakout Board.
+2. The Freenove Breakout Board includes two voltage regulator circuits. One circuit steps down the external input power to 5V at 3A, while the other steps it down to 3.3V at 3A. The external power input voltage range is 5-12V. We recommend using a power supply device with 12V at 3A to power the Freenove Breakout Board.
 
 3. Please note that the red pins on the Freenove Breakout Board represent the positive power supply (VCC), and the black pins represent the negative power supply (GND). When connecting external circuits, do not short-circuit the red and black pins, as this may damage the Freenove Breakout Board or your development board.
 

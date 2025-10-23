@@ -14,7 +14,7 @@ Here are main features of the Freenove Breakout Board:
 
 * Each signal line is connected to an LED indicator light, which displays the signal status in real-time, allowing you to quickly understand the working condition of the circuit. This design not only helps with troubleshooting but also provides immediate feedback, enhancing the user experience.
 
-* Adjustable Power Input: It is equipped with a DC power interface that supports 5~24V voltage input and includes a built-in voltage regulator module, making it convenient to provide a stable power supply for the development board and peripherals.
+* Adjustable Power Input: It is equipped with a DC power interface that supports 5~12V voltage input and includes a built-in voltage regulator module, making it convenient to provide a stable power supply for the development board and peripherals.
 
 Whether you are an electronics enthusiast, a student, or a professional developer, this breakout board will provide strong support for your creativity. Let's explore more possibilities and embark on your maker journey together!
 
