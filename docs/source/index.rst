@@ -40,4 +40,5 @@ This product provides the following online documents.
    fnk0101/codes/tutorial/3_ESP8266.rst
    fnk0101/codes/tutorial/4_Raspberry_Pi_Pico.rst
    fnk0101/codes/tutorial/5_Other_Development_Boards.rst
+   fnk0101/codes/tutorial/Design_Explanation.rst
    fnk0101/codes/tutorial/What_s_Next.rst
